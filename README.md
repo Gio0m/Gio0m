@@ -1,7 +1,7 @@
 
 ![](ascii.gif)
 
-I’m currently working on ![CoinVersus](https://github.com/CoinVs) 
+I’m currently working on [CoinVersus](https://github.com/CoinVs) 
 
 <!--
 ### Hi there 👋
