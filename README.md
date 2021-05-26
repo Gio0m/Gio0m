@@ -1,8 +1,8 @@
 
 ![](ascii.gif)
 
-- 🐳 Orcas are cool
-- 🔭 I’m currently working on [CoinVersus](https://github.com/CoinVs) 
+- 🐳 Orcas are ❤️
+- 🔭 I’m currently working on [CoinVersus](https://github.com/CoinVs) ✨✨✨
 
 <!--
 ### Hi there 👋
@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
