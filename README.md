@@ -1,7 +1,7 @@
 
 ![](ascii.gif)
 
-- 🐳 Orcas are ❤️
+- 🐳 
 - 🔭 I’m currently working on [CoinVs](https://github.com/coinversus-labs) ✨✨✨
 
 <!--
